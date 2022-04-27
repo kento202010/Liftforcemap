@@ -7,7 +7,7 @@ gcc 9.2.0<br>
 Python 3.9.7<br>
 pdfTeX 3.141592653-2.6-1.40.22 (TeX Live 2021)<br>
 ## 目的<br>
-国際論文の図に使用しました。（https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.L072301）
+国際論文の図に使用しました。https://ui.adsabs.harvard.edu/abs/2021PhRvF...6g2301Y/abstract
 ## 今後追加したい機能など<br>
 データ解析に必要なプログラムを掲載する予定です。
 
